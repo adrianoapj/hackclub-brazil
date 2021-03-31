@@ -1,5 +1,12 @@
 # Código de Conduta
 
+## TL;DR
+
+- Trate todos com respeito e gentileza.
+- Pense bem na maneira como você se comunica.
+- Não seja tóxico ou inconveniente.
+- Se encontrar um problema, mande um e-mail para <conduct@hackclub.com>.
+
 ## Por que temos um Código de Conduta?
 
 A comunidade do Hack Club possui pessoas com várias perspectivas diferentes. Os colaboradores do Hack Club são responsáveis por propiciar um ambiente amigável, seguro e acolhedor a todos, independentemente de características pessoais como idade, deficiências, gênero, nacionalidade, raça, religião, sexualidade, ou semelhantes.
@@ -76,12 +83,7 @@ Note que isso não vai restringir a possibilidade de você entrar em contato com
 
 ## Equipe
 
-A equipe do Hack Club responsável pelo Código de Conduta é um grupo de pessoas que representam a comunidade do Hack Club. Eles são responsáveis pelos problemas relacionados a condutas. Seus propósitos são minimizar conflitos e tentar resolver problemas de modo a satisfazer toda a comunidade. Eles são:
-
-| Nome                | Conta do Slack | E-mail                 |
-| ------------------- | -------------- | ---------------------- |
-| Max Wofford         | @msw           | max@hackclub.com       |
-| Zach Latta          | @zrl           | zach@hackclub.com      |
+A equipe é responsável por gerenciar problemas relacionados à conduta. Sua missão é de minimizar conflitos e tentar resolver problemas de modo a satisfazer ambas as partes and. Para todos os [projetos relacionados e/ou mantidos pelo Hack Club HQ](#onde-o-código-de-conduta-se-aplica), a equipe responsável por esses problemas é o [Time Oficial do Hack Club](https://hackclub.com/team/) e o [Time de Comunidade](https://app.slack.com/client/T0266FRGM/C01D7AHKMPF). O membro específico que vai gerenciar cada violação deste código depende da localização e natureza do problema.
 
 ## Reportando problemas
 
@@ -91,7 +93,7 @@ Se você encontrar algum problema relacionado a este Código de Conduta, você d
   - Sua mensagem chegará até nossa equipe.
   - Denúncias são confidenciais entre você e nossa equipe.
   - Se você escolher por manter sua identidade anônima, não poderemos te notificar sobre o status da denúncia.
-  - Você pode contatar um mbero da equipe diretamente se não se sentir confortável reportando para o grupo todo. Esse membro compartilhará então o problema com o grupo inteiro preservando o anonimato de quem reportou (se assim desejado).
+  - Você pode contatar um membro da equipe diretamente se não se sentir confortável reportando para o grupo todo. Esse membro compartilhará então o problema com o grupo inteiro preservando o anonimato de quem reportou (se assim desejado).
   - Se a sua denúncia abrange um dos membros da equipe, ele não participará das reuniões que dizem respeito a essa denúncia.
   - A equipe vai se esforçar para tratar denúncias com discrição e respeito, para proteger a privacidade das partes envolvidas e para evitar conflitos de interesse.
 - Você receberá uma mensagem de nós em até 48 horas (provavelmente receberá antes disso). (Se você escolher por contatar um membro da equipe em específico, pode demorar um pouco mais)
@@ -110,13 +112,6 @@ Se você encontrar algum problema relacionado a este Código de Conduta, você d
 **Note que o objetivo deste Código de Conduta é resolver conflitos da forma mais harmoniosa possível.** Esperamos que a maioria dos casos possa ser resolvido com uma conversa simples e com entendimento mútuo. Expulsões e outras punições serão executadas apenas como último recurso.
 
 Mudanças a este Código de Conduta (incluindo aos membros da equipe) devem ser propostas criando um issue [aqui](https://github.com/hackclub/hackclub/issues/new) ou fazendo uma pull request ao repositório com o Código de Conduta original.
-
-## Resumo
-
-- Trate todos com respeito e gentilesa.
-- Seja cuidadoso na maneira que você se comunica.
-- Não seja destrutivo ou tóxico.
-- Se encontrar algum problema, por favor mande um e-mail para conduct@hackclub.com.
 
 ## Agradecimentos
 
